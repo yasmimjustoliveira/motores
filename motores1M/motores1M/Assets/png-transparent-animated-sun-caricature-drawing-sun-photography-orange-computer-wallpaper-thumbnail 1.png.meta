@@ -136,7 +136,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      png-transparent-animated-sun-caricature-drawing-sun-photography-orange-computer-wallpaper-thumbnail 1_0: 7789963397292739046
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
