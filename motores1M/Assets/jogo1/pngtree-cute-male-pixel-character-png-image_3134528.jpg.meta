@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 443ed085dcdf0b54b8906474a59b9a89
+guid: 5942ad46c951b5f4db4df885760e67b2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6976127882527827468
-    second: 12483709_0
+      213: 7877478582591293937
+    second: pngtree-cute-male-pixel-character-png-image_3134528_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 12483709_0
+      name: pngtree-cute-male-pixel-character-png-image_3134528_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1080
-        height: 1080
+        width: 360
+        height: 360
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c06e4c9195f20d060800000000000000
-      internalID: 6976127882527827468
+      spriteID: 1f90a11c80d625d60800000000000000
+      internalID: 7877478582591293937
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      12483709_0: 6976127882527827468
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
