@@ -2,15 +2,35 @@ using UnityEngine;
 
 public class Play : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
+   private int numero;
+   public float velocidade = 2;
+  
+   
+   void Start()
     {
-        
+        numero = 0;
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
+       
+    //debug.log(numero);
+    //numero = numero + 1;
+    // Update is called once per frame
+     
+
+     if (Input.GetKey(KeyCode.A)) 
+     {
+         gameObject.transform.position += new Vector3(-velocidade, 0, 0);
+     }
+      
+     if (Input.GetKey(KeyCode.D))
+     {
+       gameObject.transform.position += new Vector3(velocidade, 0, 0);
+     }
+
+
     }
+
+
 }
