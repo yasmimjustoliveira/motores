@@ -3,7 +3,7 @@ using UnityEngine;
 public class Play : MonoBehaviour
 {
    private int numero;
-   public float velocidade = 2;
+   public float velocidade = 240;
   
    
    void Start()
